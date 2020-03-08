@@ -1,8 +1,6 @@
 ## Description ##
 
-WiFi Passview is an program that can recover your WiFi Password easily in seconds. <br>
-
-This is for Windows OS only. Basically, this  program has the same function as other passview softwares such as webpassview and mailpassview.<br>
+WiFi Passview is an program that can recover your WiFi Password easily in seconds. This is for Windows OS only. Basically, this  program has the same function as other passview softwares such as webpassview and mailpassview.<br>
 
 ## How To ##
 
