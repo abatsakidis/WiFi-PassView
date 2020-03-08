@@ -1,0 +1,12 @@
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\bin\Debug\Include\wifi-scan.bat
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\bin\Debug\Include\wifipassview.bat
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\bin\Debug\WiFi-Passview.exe.config
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\bin\Debug\WiFi-Passview.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\bin\Debug\WiFi-Passview.pdb
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\obj\Debug\WiFi-Passview.csprojAssemblyReference.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\obj\Debug\WiFi_Passview.Properties.Resources.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\obj\Debug\WiFi-Passview.csproj.GenerateResource.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\obj\Debug\WiFi-Passview.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\obj\Debug\WiFi-Passview.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\obj\Debug\WiFi-Passview.pdb
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\WiFi-Passview\WiFi-Passview\obj\Debug\WiFi_Passview.Main.resources
