@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/suqhg7xf16nc5c31?svg=true)](https://ci.appveyor.com/project/abatsakidis/wifi-passview)
+
 ## Description ##
 
 WiFi Passview is an program that can recover your WiFi Password easily in seconds. This is for Windows OS only. Basically, this  program has the same function as other passview softwares such as webpassview and mailpassview.<br>
