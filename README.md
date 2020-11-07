@@ -29,3 +29,5 @@ WiFi Passview is an program that can recover your WiFi Password easily in second
 
 Batsakidis Athanasios<br>
 a.batsakidis@re-think.gr
+
+Credits back to Waren Gonzaga https://github.com/WarenGonzaga
